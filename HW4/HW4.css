@@ -2,10 +2,11 @@ body {
     font-family: Annie Use Your Telescope;
     font-size: 30px;
     margin: 20px;
-    
+    background-image: url("source.gif");
 }
 
 h1 {
     font-family: Bangers;
     font-size: 40px;
+    align: center;
 }
